@@ -11,13 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ApiWeb9")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d695f7d7d47872a53c712b2ca4bc7a66e70d60b9")]
-[assembly: System.Reflection.AssemblyProductAttribute("ApiWeb9")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ApiWeb9")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: Microsoft.AspNetCore.Mvc.ApplicationParts.ApplicationPartAttribute("Microsoft.AspNetCore.OpenApi")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 
