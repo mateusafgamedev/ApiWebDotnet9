@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\Tech\\C#\\Estudos\\ApiWeb9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D83BEDF2-0F84-4CEF-BC62-56615A3FFB9E}|ApiWeb9\\ApiWeb9.csproj|m:\\tech\\c#\\estudos\\apiweb9\\apiweb9\\migrations\\20251127174215_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83BEDF2-0F84-4CEF-BC62-56615A3FFB9E}|ApiWeb9\\ApiWeb9.csproj|solutionrelative:apiweb9\\migrations\\20251127174215_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83BEDF2-0F84-4CEF-BC62-56615A3FFB9E}|ApiWeb9\\ApiWeb9.csproj|m:\\tech\\c#\\estudos\\apiweb9\\apiweb9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83BEDF2-0F84-4CEF-BC62-56615A3FFB9E}|ApiWeb9\\ApiWeb9.csproj|solutionrelative:apiweb9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83BEDF2-0F84-4CEF-BC62-56615A3FFB9E}|ApiWeb9\\ApiWeb9.csproj|m:\\tech\\c#\\estudos\\apiweb9\\apiweb9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D83BEDF2-0F84-4CEF-BC62-56615A3FFB9E}|ApiWeb9\\ApiWeb9.csproj|solutionrelative:apiweb9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83BEDF2-0F84-4CEF-BC62-56615A3FFB9E}|ApiWeb9\\ApiWeb9.csproj|m:\\tech\\c#\\estudos\\apiweb9\\apiweb9\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83BEDF2-0F84-4CEF-BC62-56615A3FFB9E}|ApiWeb9\\ApiWeb9.csproj|solutionrelative:apiweb9\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83BEDF2-0F84-4CEF-BC62-56615A3FFB9E}|ApiWeb9\\ApiWeb9.csproj|m:\\tech\\c#\\estudos\\apiweb9\\apiweb9\\model\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83BEDF2-0F84-4CEF-BC62-56615A3FFB9E}|ApiWeb9\\ApiWeb9.csproj|solutionrelative:apiweb9\\model\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251127174215_FirstMigration.cs",
+              "DocumentMoniker": "M:\\Tech\\C#\\Estudos\\ApiWeb9\\ApiWeb9\\Migrations\\20251127174215_FirstMigration.cs",
+              "RelativeDocumentMoniker": "ApiWeb9\\Migrations\\20251127174215_FirstMigration.cs",
+              "ToolTip": "M:\\Tech\\C#\\Estudos\\ApiWeb9\\ApiWeb9\\Migrations\\20251127174215_FirstMigration.cs",
+              "RelativeToolTip": "ApiWeb9\\Migrations\\20251127174215_FirstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:42:16.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\Tech\\C#\\Estudos\\ApiWeb9\\ApiWeb9\\Program.cs",
+              "RelativeDocumentMoniker": "ApiWeb9\\Program.cs",
+              "ToolTip": "M:\\Tech\\C#\\Estudos\\ApiWeb9\\ApiWeb9\\Program.cs",
+              "RelativeToolTip": "ApiWeb9\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:34:38.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "M:\\Tech\\C#\\Estudos\\ApiWeb9\\ApiWeb9\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiWeb9\\appsettings.json",
+              "ToolTip": "M:\\Tech\\C#\\Estudos\\ApiWeb9\\ApiWeb9\\appsettings.json",
+              "RelativeToolTip": "ApiWeb9\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T17:26:51.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoModel.cs",
+              "DocumentMoniker": "M:\\Tech\\C#\\Estudos\\ApiWeb9\\ApiWeb9\\Model\\ProdutoModel.cs",
+              "RelativeDocumentMoniker": "ApiWeb9\\Model\\ProdutoModel.cs",
+              "ToolTip": "M:\\Tech\\C#\\Estudos\\ApiWeb9\\ApiWeb9\\Model\\ProdutoModel.cs",
+              "RelativeToolTip": "ApiWeb9\\Model\\ProdutoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:59:17.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "M:\\Tech\\C#\\Estudos\\ApiWeb9\\ApiWeb9\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ApiWeb9\\Data\\AppDbContext.cs",
+              "ToolTip": "M:\\Tech\\C#\\Estudos\\ApiWeb9\\ApiWeb9\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ApiWeb9\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:52:18.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
