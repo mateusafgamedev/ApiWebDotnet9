@@ -1,0 +1,131 @@
+[
+  {
+    "ContainingType": "ApiWeb9.Controllers.ProdutoController",
+    "Method": "BuscarProdutos",
+    "RelativePath": "api/Produto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ApiWeb9.Model.ProdutoModel, ApiWeb9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiWeb9.Controllers.ProdutoController",
+    "Method": "CadastrarProduto",
+    "RelativePath": "api/Produto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "produtoModel",
+        "Type": "ApiWeb9.Model.ProdutoModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ApiWeb9.Model.ProdutoModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiWeb9.Controllers.ProdutoController",
+    "Method": "BuscarProdutoPorId",
+    "RelativePath": "api/Produto/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ApiWeb9.Model.ProdutoModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiWeb9.Controllers.ProdutoController",
+    "Method": "EditarProduto",
+    "RelativePath": "api/Produto/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "produtoModel",
+        "Type": "ApiWeb9.Model.ProdutoModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ApiWeb9.Model.ProdutoModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiWeb9.Controllers.ProdutoController",
+    "Method": "DeletarProduto",
+    "RelativePath": "api/Produto/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ApiWeb9.Model.ProdutoModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
